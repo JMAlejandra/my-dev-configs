@@ -1,0 +1,38 @@
+{
+    "workbench.colorTheme": "Night Owl (No Italics)",
+    "editor.fontSize": 14,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "json.maxItemsComputed": 8000,
+    "files.maxMemoryForLargeFilesMB": 5000000,
+    "notebook.output.textLineLimit": 30000,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.accessibilitySupport": "off",
+    "terminal.integrated.scrollback": 1500,
+    "workbench.settings.applyToAllProfiles": ["terminal.integrated.scrollback"],
+    "prettier.semi": false,
+    "workbench.iconTheme": "vscode-icons",
+    "prettier.printWidth": 100,
+    "prettier.tabWidth": 4,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "git.suggestSmartCommit": false,
+    "editor.tabSize": 2,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "git.ignoreRebaseWarning": true,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "typescriptreact": false
+    },
+    "docker.extension.enableComposeLanguageServer": false,
+    "debug.javascript.autoAttachFilter": "onlyWithFlag",
+    "terminal.integrated.suggest.enabled": true
+}
