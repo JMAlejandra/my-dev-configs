@@ -1,0 +1,26 @@
+{
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "tabWidth": 2,
+    "printWidth": 100,
+    "arrowParens": "always",
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false,
+    "useTabs": false,
+    "endOfLine": "auto",
+    "overrides": [
+        {
+            "files": "docker-compose.yml",
+            "options": {
+                "singleQuote": false
+            }
+        },
+        {
+            "files": "*.yml",
+            "options": {
+                "singleQuote": false
+            }
+        }
+    ]
+}
