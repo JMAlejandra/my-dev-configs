@@ -8,7 +8,7 @@
     "files.maxMemoryForLargeFilesMB": 5000000,
     "notebook.output.textLineLimit": 30000,
     "[python]": {
-        "editor.formatOnType": true
+        "editor.formatOnType": true,
     },
     "liveServer.settings.donotVerifyTags": true,
     "editor.accessibilitySupport": "off",
@@ -30,9 +30,9 @@
         "plaintext": false,
         "markdown": false,
         "scminput": false,
-        "typescriptreact": false
+        "typescriptreact": false,
     },
     "docker.extension.enableComposeLanguageServer": false,
     "debug.javascript.autoAttachFilter": "onlyWithFlag",
-    "terminal.integrated.suggest.enabled": true
+    "terminal.integrated.suggest.enabled": true,
 }
